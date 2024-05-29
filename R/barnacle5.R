@@ -1,6 +1,5 @@
 #' Barnacle data
 #'
-#'
 #'@name barnacle5
 #'@docType data
 #'@usage barnacle5
